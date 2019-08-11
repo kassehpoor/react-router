@@ -2,3 +2,5 @@
 2)navigate to the parent directory that you would like to place the application within:
 create-react-app <name-of-app>
 3)npm start
+4)npm install react-router-dom
+
